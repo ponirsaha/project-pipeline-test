@@ -9,5 +9,4 @@ public class ProjectPipelineTestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProjectPipelineTestApplication.class, args);
 	}
-
 }
